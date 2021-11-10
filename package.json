@@ -9,7 +9,7 @@
 		"url": "git://github.com/liblouis/liblouis-js.git"
 	},
 	"dependencies": {
-		"liblouis-build": "*"
+		"liblouis-build": "morrisonsign/js-build"
 	},
 	"scripts": {
 		"test": "./testrunner/all.sh"
